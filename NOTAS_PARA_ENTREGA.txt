@@ -1,0 +1,10 @@
+Antes de entregar:
+1. Abre la carpeta principal del proyecto en Visual Studio Code.
+2. Instala las extensiones recomendadas que aparecen en .vscode/extensions.json.
+3. Ejecuta la aplicacion desde BibliotecaVideojuegosApplication.java.
+4. Prueba los cinco endpoints en Postman o Bruno.
+5. Revisa que entiendes las clases y los calculos.
+6. Cambia los ejemplos del README si quieres usar tus propios datos.
+7. Crea el repositorio de GitHub y trabaja con tu compañero en ramas separadas.
+8. No inventes commits: cada integrante debe hacer sus propios cambios y commits.
+9. Recuerda que los datos se reinician al apagar la aplicacion porque se guardan en memoria.
