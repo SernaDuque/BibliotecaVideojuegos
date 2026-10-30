@@ -103,3 +103,14 @@ La respuesta muestra el nombre del cliente, el juego, los dias y el costo total.
 - Un juego digital cobra el precio base por cada dia. Si ocupa mas de 50 GB, se descuenta el 10%.
 - Un cliente puede tener hasta 3 juegos prestados al mismo tiempo.
 - Un juego que ya fue alquilado deja de aparecer en la lista de disponibles.
+
+## Funcionalidades
+
+- Registrar juegos físicos.
+- Registrar juegos digitales.
+- Consultar los juegos disponibles.
+- Registrar clientes.
+- Alquilar juegos a los clientes.
+- Calcular el precio del alquiler según el tipo de juego.
+- Validar la disponibilidad de los juegos.
+- Limitar los préstamos a tres juegos por cliente.
